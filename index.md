@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+This site currently contains my [blog](/blog/) and my [CV](/CV/).
+
 <p class="message">
   Hey there! I'm still working on this site. Check back soon!
 </p>
