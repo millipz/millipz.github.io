@@ -27,7 +27,7 @@ Specialties: Project Management, Design Team Leadership, Complex Refurbishment, 
 
 ### Project Architect (2015 - Present)
 
-Leading education and sports projects accross the South East. Improving office QA and stadards adoption. Developing BIM pilot projects.
+Leading education and sports projects across the South East. Improving office QA and standards adoption. Developing BIM pilot projects.
 
 ## [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
 
@@ -164,4 +164,3 @@ Accomplished vocalist and musician. Regular hiker with wide experience of outdoo
 Varied summer and casual work, including teaching english as a foreign language, with responsibility for teaching, managing, and accompanying groups of up to 35 students.
 
 Miles J Phillips — [milesjphillips@gmail.com](mailto:milesjphillips@gmail.com) — [+447515 490647](tel:+447515490647)
-
