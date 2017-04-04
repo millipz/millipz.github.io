@@ -53,7 +53,7 @@ Developing proposals for restorations, alterations and extensions to sensitive l
 
 Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
 
-### [Hawkins Brown](http://www.beds.ac.uk/), London
+### [Hawkins Brown](http://www.hawkinsbrown.com/), London
 
 ##### April 2011 - July 2011
 
@@ -77,7 +77,7 @@ Writing, shooting, designing and producing documentary-style promotional videos.
 
 Preparing planning applications, feasibility proposals. Liaising with clients and subcontractors. Developing innovative housing designs and modular building systems. Managing and producing drawing packages. Assisting with office software management and education. Producing detailed 3D models for photorealistic visualisations.
 
-### [Hypostyle](http://www.hypostyle.co.uk/Home.html), Glasgow
+### [Hypostyle](http://www.hypostyle.co.uk/), Glasgow
 
 ##### 2006-2007
 
@@ -111,6 +111,10 @@ Experienced at all stages of design and managing projects to completion, includi
 
 Skilled communicator, personable and sociable. Experienced at managing multiple projects, prioritisation, delegation, and working to tight deadlines.
 
+### BIM & CAD
+
+Fluency in a variety of CAD and BIM environments. Experience teaching 2D and 3D CAD, developing production information in Revit. Also experienced at developing custom parametric Revit families.
+
 ### Technical Drawing
 
 Comfortable with both manual and digital drawing, with clear and professional draftsmanship. Experience using and teaching a wide range of drawing software. Experience teaching technical drawing.
@@ -134,6 +138,7 @@ Accomplished 3D modeller, able to produce a wide variety of polished imagery and
 ### Software
 
 *   Adobe CS Suite
+*	Revit
 *   AutoCAD
 *   Vectorworks
 
