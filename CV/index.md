@@ -5,7 +5,7 @@ title: CV
 
 # Miles J Phillips
 
-### Architect
+## Architect
 
 ## Profile
 
@@ -19,23 +19,17 @@ Specialties: Project Management, Design Team Leadership, Complex Refurbishment, 
 
 ### [TSH Architects](http://www.tsharchitects.co.uk/), Oxford
 
-##### Apr 2015-Present
-
 #### Project Architect (2015 - Present)
 
 Leading education and sports projects across the South East. Improving office QA and standards adoption. Developing BIM pilot projects.
 
 ### [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
 
-##### Visiting Lecturer
-
-#### Sept 2015-Present
+#### Visiting Lecturer (Sept 2015-Present)
 
 Preparing and delivering a 2-level short course in AutoCAD for professionals.
 
 ### [Molyneux Kerr Architects](http://www.molyneuxkerr.com/), London
-
-##### 2007-2015
 
 #### Architect (2014 - 2015)
 
@@ -47,41 +41,31 @@ Developing proposals for restorations, alterations and extensions to sensitive l
 
 ### [University of Bedfordshire](http://www.beds.ac.uk/), Luton
 
-##### Jan 2012 - June 2013
-
-#### Visiting Lecturer
+#### Visiting Lecturer (Jan 2012 - June 2013)
 
 Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
 
 ### [Hawkins Brown](http://www.hawkinsbrown.com/), London
 
-##### April 2011 - July 2011
-
-#### Part II Architectural Assistant
+#### Part II Architectural Assistant (April 2011 - July 2011)
 
 Producing and managing Tender drawing packages. Coordinating drawings and other information with consultants to safeguard design intent. Researching and writing specifications, NBS preliminaries, and health & safety information. Visiting sites to carry out assessments of existing buildings. Preparing for and minuting meetings. Managing project filing and records. Building models and developing scheme designs.
 
 ### [Shelter Associates](http://www.shelter-associates.org), Pune, India
 
-##### Nov 2010 - Jan 2011
-
-#### Videographer, Web and Graphic Consultancy
+#### Videographer, Web and Graphic Consultancy (Nov 2010 - Jan 2011)
 
 Writing, shooting, designing and producing documentary-style promotional videos. Consulting on branding and graphics, along with website update. Assiting in developing and running workshops for children displaced from informal settlements.
 
 ### [Harper Downie](http://www.harperdownie.com/), London
 
-##### 2007 - June 2011
-
-#### Architectural Assistant (Parts I & II)
+#### Architectural Assistant (2007 - June 2011)
 
 Preparing planning applications, feasibility proposals. Liaising with clients and subcontractors. Developing innovative housing designs and modular building systems. Managing and producing drawing packages. Assisting with office software management and education. Producing detailed 3D models for photorealistic visualisations.
 
 ### [Hypostyle](http://www.hypostyle.co.uk/), Glasgow
 
-##### 2006-2007
-
-#### Part I Architectural Assistant
+#### Architectural Assistant (2006-2007)
 
 Producing drawings for job pitches, planning applications, and production information. Assisting detail design and development. Completing and issuing tender drawing packages.
 
@@ -89,13 +73,13 @@ Producing drawings for job pitches, planning applications, and production inform
 
 ### [The Bartlett, UCL](http://www.bartlett.ucl.ac.uk/)
 
-PGDip in Professional Practice & Management in Architecture (ARB/RIBA Part 3) — 2014
+PGDip in Professional Practice & Management in Architecture (ARB/RIBA Part 3) -- 2014
 
 ### [University of Sheffield School of Architecture](http://www.sheffield.ac.uk/architecture/)
 
-M.Arch in Architecture (RIBA Part 2) — 2010
+M.Arch in Architecture (RIBA Part 2) -- 2010
 
-BA (Hons) Architecture, 2:1 (RIBA Part 1) — 2006
+BA (Hons) Architecture, 2:1 (RIBA Part 1) -- 2006
 
 ### John Mason School
 
@@ -137,22 +121,25 @@ Accomplished 3D modeller, able to produce a wide variety of polished imagery and
 
 ### Software
 
-*   Adobe CS Suite
-*	Revit
-*   AutoCAD
-*   Vectorworks
+- Adobe CS Suite
+- Revit
+- AutoCAD
+- Vectorworks
 
-*   SketchUp
-*   Kerkythea
-*   Cinema4D
+- SketchUp
 
-*   OS X
-*   Windows XP/Vista
-*   Linux
+- Kerkythea
+- Cinema4D
 
-*   HTML
-*   CSS
-*   JavaScript
+- OS X
+
+- Windows XP/Vista
+- Linux
+
+- HTML
+
+- CSS
+- JavaScript
 
 ## Other
 
