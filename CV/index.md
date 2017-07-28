@@ -45,15 +45,9 @@ Developing proposals for restorations, alterations and extensions to sensitive l
 
 Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
 
-### [Hawkins Brown](http://www.hawkinsbrown.com/), London
+## [Shelter Associates](http://www.shelter-associates.org), Pune, India
 
-#### Part II Architectural Assistant (2011 - 2011)
-
-Producing and managing Tender drawing packages. Coordinating drawings and other information with consultants to safeguard design intent. Researching and writing specifications, NBS preliminaries, and health & safety information. Visiting sites to carry out assessments of existing buildings. Preparing for and minuting meetings. Managing project filing and records. Building models and developing scheme designs.
-
-### [Shelter Associates](http://www.shelter-associates.org), Pune, India
-
-#### Videographer, Web and Graphic Consultancy (Nov 2010 - Jan 2011)
+### Videographer, Web and Graphic Consultancy (Nov 2010 - Jan 2011)
 
 Writing, shooting, designing and producing documentary-style promotional videos. Consulting on branding and graphics, along with website update. Assiting in developing and running workshops for children displaced from informal settlements.
 
