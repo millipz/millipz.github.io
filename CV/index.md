@@ -25,7 +25,7 @@ Leading education and sports projects across the South East. Improving office QA
 
 ### [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
 
-#### Visiting Lecturer (Sept 2015-Present)
+#### Visiting Lecturer (2015-Present)
 
 Preparing and delivering a 2-level short course in AutoCAD for professionals.
 
@@ -41,13 +41,13 @@ Developing proposals for restorations, alterations and extensions to sensitive l
 
 ### [University of Bedfordshire](http://www.beds.ac.uk/), Luton
 
-#### Visiting Lecturer (Jan 2012 - June 2013)
+#### Visiting Lecturer (2012 - 2013)
 
 Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
 
 ### [Hawkins Brown](http://www.hawkinsbrown.com/), London
 
-#### Part II Architectural Assistant (April 2011 - July 2011)
+#### Part II Architectural Assistant (2011 - 2011)
 
 Producing and managing Tender drawing packages. Coordinating drawings and other information with consultants to safeguard design intent. Researching and writing specifications, NBS preliminaries, and health & safety information. Visiting sites to carry out assessments of existing buildings. Preparing for and minuting meetings. Managing project filing and records. Building models and developing scheme designs.
 
@@ -59,7 +59,7 @@ Writing, shooting, designing and producing documentary-style promotional videos.
 
 ### [Harper Downie](http://www.harperdownie.com/), London
 
-#### Architectural Assistant (2007 - June 2011)
+#### Architectural Assistant (2007 - 2011)
 
 Preparing planning applications, feasibility proposals. Liaising with clients and subcontractors. Developing innovative housing designs and modular building systems. Managing and producing drawing packages. Assisting with office software management and education. Producing detailed 3D models for photorealistic visualisations.
 
@@ -129,16 +129,19 @@ Accomplished 3D modeller, able to produce a wide variety of polished imagery and
 - SketchUp
 
 - Kerkythea
+
 - Cinema4D
 
 - OS X
 
 - Windows XP/Vista
+
 - Linux
 
 - HTML
 
 - CSS
+
 - JavaScript
 
 ## Other
