@@ -2,7 +2,7 @@
 layout: post
 title: Mechanical Keyboards Meetup U.K.
 ---
-I am a newcomer to both the word of stenography and that of mechanical keyboards. Being a designer, I do not often have to type large volumes of text, so might not be a typical user of stenography. However I was so impressed by some of Mirabai's talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby.
+I am new to both the word of stenography and that of mechanical keyboards. Being a designer, I do not often have to type large volumes of text, so might not be a typical user of stenography. However I was so impressed by some of Mirabai's talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby.
 
 The latest meetup of the [MKUK subreddit](https://www.reddit.com/r/MechanicalKeyboardsUK/) was held on Saturday 24th February. A large part of the appeal of mechanical keyboards has been the inventiveness of the devices and the fun spirit of the community, so when an opportunity arose to meet some of the people and play with some of the toys, I jumped at it.
 
