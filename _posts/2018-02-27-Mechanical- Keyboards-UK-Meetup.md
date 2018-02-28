@@ -14,9 +14,23 @@ The venue was a basement meeting room in a Waterloo hotel, full of keyboards and
 
 Although the idea was for my demo to be self explanatory, there was not quite enough information for a complete novice to try typing with any success, so I spent much of my time at the event standing by my laptop, talking people through the concepts of stenography and showing them how to stroke their first few words. Most had not tried stenography before, although I did meet one lapsed Plover user. The reception was even more enthusiastic than I had hoped, with a lot of interest, especially when I mention the potential typing speeds of 200+ wpm.
 
-I answered many questions about the system and steno in general, from 'how would I type [insert long word here]?' for which Plover's 'Lookup' function came in very handy, to 'is it very bound to the English language?' to which I answered 'yes, but steno theories and keyboards exist for many languages!' (see the [Plover Discord Group's](https://discordapp.com/invite/0lQde43a6dGmAMp2) multilingual channel for more on this!). One of the most interesting questions I got asked was 'how did the first (pre-computer) steno machines work?'. To answer this one I fired up the Plover 'Paper Tape' and explained that early machines recorded strokes that would be later hand translated back into English. It's these little features that made Plover truly fun to demonstrate, and I had a great time chatting to everyone who took an interest.
+I answered many questions about the system and steno in general, from
 
-I had a great time at the meetup, and would love to have a go at demonstrating Plover again in the future, especially if I manage to build up some fluency in stenography
+> How would I type paraphernalia?
+
+for which Plover's 'Lookup' function came in very handy, to
+
+> is it very bound to the English language?
+
+to which I answered "yes, but steno theories and keyboards exist for many languages!" (see the [Plover Discord Group's](https://discordapp.com/invite/0lQde43a6dGmAMp2) multilingual channel for more on this!). One of the most interesting questions I got asked was
+
+> How did the first (pre-computer) steno machines work?
+
+To answer this one I fired up the Plover 'Paper Tape' and explained that early machines recorded strokes that would be later hand translated back into English. It's these little features that made Plover truly fun to demonstrate, and I had a great time chatting to everyone who took an interest.
+
+I've detailed my setup below for anyone who is interested, along with some thoughts on improving it next time. I had a great time at the meetup, and would love to have a go at demonstrating Plover again in the future, especially if I manage to build up some fluency in stenography. Thanks to all the welcoming folk of [r/MechanicalKeyboardsUK](https://www.reddit.com/r/MechanicalKeyboardsUK/) and to Mirabai for inviting me to write this post!
+
+----
 
 # Demonstration Setup
 
