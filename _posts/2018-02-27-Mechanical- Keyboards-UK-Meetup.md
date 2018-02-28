@@ -22,7 +22,7 @@ for which Plover's 'Lookup' function came in very handy, to
 
 > is it very bound to the English language?
 
-to which I answered "yes, but steno theories and keyboards exist for many languages!" (see the [Plover Discord Group's](https://discordapp.com/invite/0lQde43a6dGmAMp2) multilingual channel for more on this!). One of the most interesting questions I got asked was
+to which I answered "yes, but steno theories and keyboards exist for many languages!" (see the [Plover Discord Group's](https://discordapp.com/invite/0lQde43a6dGmAMp2) multilingual channel for more on this). One of the most interesting questions I got asked was
 
 > How did the first (pre-computer) steno machines work?
 
