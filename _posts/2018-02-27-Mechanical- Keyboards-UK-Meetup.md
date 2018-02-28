@@ -2,7 +2,7 @@
 layout: post
 title: Mechanical Keyboards Meetup U.K.
 ---
-I am new to both the word of stenography and that of mechanical keyboards. Being a designer, I do not often have to type large volumes of text, so might not be a typical user of stenography. However I was so impressed by some of Mirabai's talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby.
+I am new to both the world of stenography and that of mechanical keyboards. Being a designer, I do not often have to type large volumes of text, so might not be a typical user of stenography. However I was so impressed by some of Mirabai's talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby.
 
 The latest meetup of the [MKUK subreddit](https://www.reddit.com/r/MechanicalKeyboardsUK/) was held on Saturday 24th February. A large part of the appeal of mechanical keyboards has been the inventiveness of the devices and the fun spirit of the community, so when an opportunity arose to meet some of the people and play with some of the toys, I jumped at it.
 
@@ -39,7 +39,7 @@ I've detailed my setup below for anyone who is interested, along with some thoug
   - Plover 4.0
   - [Learn Plover Excercises at Steno Jig](https://joshuagrams.github.io/steno-jig/) open in a Safari window -- Chosen because it offers hints in the form of a keyboard layout, which is very helpful for complete beginners
   - [Open Steno Project website](http://www.openstenoproject.org/) open in a second Safari window
-  - An overlaid persistent window with the [Learn Plover! cheat sheet](https://docs.google.com/drawings/d/1Yi93aHaxe3L-_ePtq3bujv7o1CCLmmgim8iuL_Sx2IY/preview?h=400&hl=en&w=1200), using the [Helium browser](http://heliumfloats.com/).
+  - An overlaid persistent window with the [_Learn Plover!_ cheat sheet](https://docs.google.com/drawings/d/1Yi93aHaxe3L-_ePtq3bujv7o1CCLmmgim8iuL_Sx2IY/preview?h=400&hl=en&w=1200), using the [Helium browser](http://heliumfloats.com/).
 
 - Let's Split keyboard:
 
@@ -53,7 +53,7 @@ I've detailed my setup below for anyone who is interested, along with some thoug
 There are a few things I would do differently if I were to set up a Plover demo again. Hopefully this will be useful to anyone else who wants to demo Plover in a similar context.
 
 - Step-by-step guide to making your first word, printed with large text and diagrams. This would help anyone trying out the demo when it is unattended. I think the first chapter of Zack Brown's [_Learn Plover!_](https://sites.google.com/site/ploverdoc/) would be great if it could be boiled down to a single sheet of paper.
-- Provide handouts or cards for people to take away with details of Plover and the Open Ssteno Project.
+- Provide handouts or cards for people to take away with details of Plover and the Open Steno Project.
 - Display names/links for:
 
   - The Open Steno Project website
