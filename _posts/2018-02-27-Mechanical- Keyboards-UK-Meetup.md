@@ -56,6 +56,6 @@ There are a few things I would do differently if I were to set up a Plover demo 
   - The Plover Discord Group
   - The Plover subreddit
 
-- Find time to make a demonstration to a larger group. This was not really suitable for this event, but would be a good way to demonstrate interest.
+- Find time to make a demonstration to a larger group. This was not really suitable for this event, but would be a good way to boost interest.
 
 _This post was written (mostly) using Plover at around 8wpm :)_
