@@ -6,11 +6,15 @@ I am new to the world of stenography. As a designer, I do not often have to type
 
 A large part of the appeal of mechanical keyboards has been the inventiveness of the devices and the spirit of the community, so when an opportunity arose to meet some of the community and bond over discussions of keycaps and switch stems, I jumped at it. The latest meetup of the [MKUK subreddit](https://www.reddit.com/r/MechanicalKeyboardsUK/) was held on Saturday 24th February. I expected to enjoy looking at and tapping on many beautiful keyboards, but not display anything of my own. However while discussing the event on the Plover Discord Group, I came up with the idea of setting up a little Plover demo for people to try out at the meetup. As an enthusiastic beginner at stenography, I thought this would be a great way to spread the word about the open steno project and a good icebreaker at an event full of people I'd never met.
 
-![The room](/assets/MechMeetRoom.jpg){:class="img-responsive"}
+![The room](/assets/MechMeet_Room.jpg){:class="img-responsive"}
 
 The venue was a basement meeting room in a Waterloo hotel, full of keyboards and enthusiasts. The event was buzzing and well attended, and I arrived in good time to get the laptop and keyboard set up and have a good browse around the room. There were also some generous giveaways throughout the session.
 
+![The group](/assets/MechMeet_Group.jpg){:class="img-responsive"}
+
 Although the idea was for my demo to be self explanatory, there was not quite enough information for a complete novice to try typing with any success, so I spent much of my time at the event standing by my laptop, talking people through the concepts of stenography and showing them how to stroke their first few words. Most had not tried stenography before, although I did meet one lapsed Plover user. The reception was even more enthusiastic than I had hoped, with a lot of interest, especially when I mention the potential typing speeds of 200+ wpm.
+
+![A table covered in keyboards](/assets/MechMeet_Table.jpg){:class="img-responsive"}
 
 I answered many questions about my setup, Plover, and stenography in general, from
 
@@ -29,6 +33,8 @@ To answer I fired up the Plover 'Paper Tape' and explained that early machines r
 I've detailed my setup below for anyone who is interested, along with some thoughts on improving it next time. I had a great time at the meetup, and would love to have a go at demonstrating Plover again in the future, especially if I manage to build up some fluency in stenography. Thanks to all the welcoming folk of [r/MechanicalKeyboardsUK](https://www.reddit.com/r/MechanicalKeyboardsUK/) and to Mirabai for inviting me to write this post!
 
 ----
+
+![The setup](/assets/MechMeet_Setup.jpg){:class="img-responsive"}
 
 # Demonstration Setup
 
