@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mechanical Keyboards Meetup U.K. - My Plover Demonstration
+feature-img: "/assets/MechMeet_Setup.jpg"
 ---
 I am new to the world of stenography. As a designer, I do not often have to type large volumes of text, so might not be a typical user. However I was so impressed by [some](https://youtu.be/0VllYASd84o) [of](https://youtu.be/Wpv-Qb-dB6g) [Mirabai's](http://stenoknight.com) talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby. Both learning steno and tinkering with keyboards turn out to be a lot of fun!
 
