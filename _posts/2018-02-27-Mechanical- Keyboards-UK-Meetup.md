@@ -2,9 +2,11 @@
 layout: post
 title: Mechanical Keyboards Meetup U.K. - My Plover Demonstration
 ---
-I am new to the world of stenography. As a designer, I do not often have to type large volumes of text, so might not be a typical user of stenography. However I was so impressed by [some](https://youtu.be/0VllYASd84o) [of](https://youtu.be/Wpv-Qb-dB6g) [Mirabai's](http://stenoknight.com) talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby. Both learning steno and tinkering with keyboards turn out to be a lot of fun!
+I am new to the world of stenography. As a designer, I do not often have to type large volumes of text, so might not be a typical user. However I was so impressed by [some](https://youtu.be/0VllYASd84o) [of](https://youtu.be/Wpv-Qb-dB6g) [Mirabai's](http://stenoknight.com) talks online that I decided to build myself a mechanical keyboard in order to learn steno as a hobby. Both learning steno and tinkering with keyboards turn out to be a lot of fun!
 
 A large part of the appeal of mechanical keyboards has been the inventiveness of the devices and the spirit of the community, so when an opportunity arose to meet some of the community and bond over discussions of keycaps and switch stems, I jumped at it. The latest meetup of the [MKUK subreddit](https://www.reddit.com/r/MechanicalKeyboardsUK/) was held on Saturday 24th February. I expected to enjoy looking at and tapping on many beautiful keyboards, but not display anything of my own. However while discussing the event on the Plover Discord Group, I came up with the idea of setting up a little Plover demo for people to try out at the meetup. As an enthusiastic beginner at stenography, I thought this would be a great way to spread the word about the open steno project and a good icebreaker at an event full of people I'd never met.
+
+![The room](/assets/MechMeetRoom.jpg){:class="img-responsive"}
 
 The venue was a basement meeting room in a Waterloo hotel, full of keyboards and enthusiasts. The event was buzzing and well attended, and I arrived in good time to get the laptop and keyboard set up and have a good browse around the room. There were also some generous giveaways throughout the session.
 
