@@ -113,29 +113,19 @@ An eye for graphical presentation and clean, clear visual communication. Academi
 
 Accomplished 3D modeller, able to produce a wide variety of polished imagery and visualizations.
 
-### Software
+### Software & Technologies
 
-- Adobe CS Suite
 - Revit
 - AutoCAD
 - Vectorworks
+- Adobe CS Suite
 
 - SketchUp
-
 - Kerkythea
-
 - Cinema4D
 
-- OS X
-
-- Windows XP/Vista
-
-- Linux
-
 - HTML
-
 - CSS
-
 - JavaScript
 
 ## Other
