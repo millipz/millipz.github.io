@@ -9,19 +9,21 @@ title: CV
 
 ## Profile
 
-I am a UK registered architect, with experience at every stage of design, including administering contracts up to £5M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings.
+I am a UK registered architect, with experience at every stage of design, including administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings.
+
+I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
 
 I also have a keen interest in how design can help to address the challenges of development around the world, and increase the resilience of the poorest and most vulnerable communities.
 
-Specialties: Project Management, Design Team Leadership, Complex Refurbishment, CAD Standards, 3D Modelling, Teaching & Training.
+Specialties: Project Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
 
 ## Experience
 
 ### [TSH Architects](http://www.tsharchitects.co.uk/), Oxford
 
-#### Project Architect (2015 - Present)
+#### Senior Architect (2015 - Present)
 
-Leading education and sports projects across the South East. Improving office QA and standards adoption. Developing BIM pilot projects.
+Leading education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
 
 ### [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
 
@@ -136,4 +138,4 @@ Accomplished vocalist and musician. Regular hiker with wide experience of outdoo
 
 ### Other Employment
 
-Varied summer and casual work, including teaching English as a foreign language, with responsibility for teaching, managing, and accompanying groups of up to 35 students.
+Varied summer and casual work, including teaching English as a foreign language, with responsibility for teaching, managing, and leading groups of up to 35 students.
