@@ -1,6 +1,6 @@
 ---
-layout: page
 title: CV
+layout: page
 ---
 
 # Miles J Phillips
