@@ -17,6 +17,7 @@ tagline: architect / educator
 description: Homepage and blog of Miles Jonathan Phillips, UK based architect
 url: http://milesjphillips.com
 baseurl: ''
+remote_theme: renyuanz/leonids
 author:
   name: Miles J Phillips
   url: https://twitter.com/millipz
