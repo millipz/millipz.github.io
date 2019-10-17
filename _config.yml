@@ -1,26 +1,24 @@
-# Permalinks
-#
-permalink:           pretty
-
-# Fix for permalinks
-#
-gems: [jekyll-paginate]
+---
+title: MJP
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+gems:
+- jekyll-paginate
 paginate: 5
-paginate_path: "blog/page:num"
-
-# Setup
-title:               MJP
-tagline:             'architect / educator'
-description:         'Homepage and blog of Miles Jonathan Phillips, UK based architect'
-url:                 http://milesjphillips.com
-baseurl:             ''
-paginate:            5
-
-# About/contact
+paginate_path: blog/page:num
+tagline: architect / educator
+description: Homepage and blog of Miles Jonathan Phillips, UK based architect
+url: http://milesjphillips.com
+baseurl: ''
 author:
-  name:              Miles J Phillips
-  url:               https://twitter.com/millipz
-  email:             milesjphillips@gmail.com
-
-# Custom vars
-version:             0.1.0
+  name: Miles J Phillips
+  url: https://twitter.com/millipz
+  email: milesjphillips@gmail.com
+version: 0.1.0

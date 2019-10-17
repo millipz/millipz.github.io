@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Home
+layout: default
 ---
 
 This site currently contains my [blog](/blog/) and my [CV](/CV/).
