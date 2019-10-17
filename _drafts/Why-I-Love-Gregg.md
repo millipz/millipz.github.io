@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Why I love Gregg Shorthand
+date: 2019-10-17 00:00:00 Z
+layout: post
 feature-img: "/assets/gregg.jpg"
 ---
+
 I started getting into hand stenography after learning [Plover](http://www.openstenoproject.org/). What I looked for in a writing system mirrored what I loved about machine steno:
 
 * As phonetic as possible
