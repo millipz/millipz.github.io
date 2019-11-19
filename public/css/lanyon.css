@@ -27,6 +27,8 @@
  * Themes
  */
 
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
 /*
  * Global resets
@@ -39,9 +41,6 @@ html,
 body {
   overflow-x: hidden;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
 html {
   font-family: "Cormorant Garamond", "PT Serif", Georgia, "Times New Roman", serif;
