@@ -150,7 +150,28 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
+      animation: colorchange 10s; /* animation-name followed by duration in seconds*/
+         /* you could also use milliseconds (ms) or something like 2.5s */
+      -webkit-animation: colorchange 10s; /* Chrome and Safari */
+    }
+
+    @keyframes colorchange
+    {
+      0%   {background: Crimson;}
+      25%  {background: MediumVioletRed;}
+      50%  {background: MediumSeaGreen;}
+      75%  {background: Goldenrod;}
+      100% {background: OrangeRed;}
+    }
+
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+      0%   {background: Crimson;}
+      25%  {background: MediumVioletRed;}
+      50%  {background: MediumSeaGreen;}
+      75%  {background: Goldenrod;}
+      100% {background: OrangeRed;}
+    }
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
