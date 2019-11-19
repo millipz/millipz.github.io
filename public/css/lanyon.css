@@ -150,11 +150,11 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  animation: colorchange 10s infinite; /* animation-name followed by duration in seconds*/
+  animation: colorchange 30s infinite; /* animation-name followed by duration in seconds*/
                               /* you could also use milliseconds (ms) or something like 2.5s */
-  -webkit-animation: colorchange 10s infinite; /* Chrome and Safari */
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+  -webkit-animation: colorchange 30s infinite; /* Chrome and Safari */
+  -webkit-transition: all .5s ease-in-out;
+          transition: all .5s ease-in-out;
 }
 
 @keyframes colorchange
