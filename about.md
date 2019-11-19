@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
 This site currently contains my [blog](/blog/) and my [CV](/CV/).
