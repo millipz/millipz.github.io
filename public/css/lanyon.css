@@ -159,19 +159,19 @@ h1, h2, h3, h4, h5, h6 {
 
 @keyframes colorchange
 {
-  0%   {background: Crimson;}
-  25%  {background: MediumVioletRed;}
-  50%  {background: MediumSeaGreen;}
-  75%  {background: Goldenrod;}
-  100% {background: OrangeRed;}
+  0%   {background: MediumVioletRed;}
+  25%  {background: OrangeRed;}
+  50%  {background: Goldenrod;}
+  75%  {background: MediumSeaGreen;}
+  100% {background: MediumVioletRed;}
 }
  @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
 {
-  0%   {background: Crimson;}
-  25%  {background: MediumVioletRed;}
-  50%  {background: MediumSeaGreen;}
-  75%  {background: Goldenrod;}
-  100% {background: OrangeRed;}
+  0%   {background: MediumVioletRed;}
+  25%  {background: OrangeRed;}
+  50%  {background: Goldenrod;}
+  75%  {background: MediumSeaGreen;}
+  100% {background: MediumVioletRed;}
 }
 
 @media (min-width: 30em) {
