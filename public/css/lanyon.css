@@ -153,27 +153,27 @@ h1, h2, h3, h4, h5, h6 {
   animation: colorchange 10s infinite; /* animation-name followed by duration in seconds*/
                               /* you could also use milliseconds (ms) or something like 2.5s */
   -webkit-animation: colorchange 10s infinite; /* Chrome and Safari */
-
-    @keyframes colorchange
-    {
-      0%   {background: Crimson;}
-      25%  {background: MediumVioletRed;}
-      50%  {background: MediumSeaGreen;}
-      75%  {background: Goldenrod;}
-      100% {background: OrangeRed;}
-    }
-
-    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
-    {
-      0%   {background: Crimson;}
-      25%  {background: MediumVioletRed;}
-      50%  {background: MediumSeaGreen;}
-      75%  {background: Goldenrod;}
-      100% {background: OrangeRed;}
-    }
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
+
+@keyframes colorchange
+{
+  0%   {background: Crimson;}
+  25%  {background: MediumVioletRed;}
+  50%  {background: MediumSeaGreen;}
+  75%  {background: Goldenrod;}
+  100% {background: OrangeRed;}
+}
+ @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+{
+  0%   {background: Crimson;}
+  25%  {background: MediumVioletRed;}
+  50%  {background: MediumSeaGreen;}
+  75%  {background: Goldenrod;}
+  100% {background: OrangeRed;}
+}
+
 @media (min-width: 30em) {
   .sidebar {
     font-size: .75rem; /* 14px */
