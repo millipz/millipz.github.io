@@ -113,10 +113,11 @@ a {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  font-size: 1.4rem;
+  font-size: 3rem;
 }
 .masthead-title a {
   color: #505050;
+  text-decoration: none;
 }
 .masthead-title small {
   font-size: 75%;
