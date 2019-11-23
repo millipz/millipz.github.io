@@ -33,7 +33,7 @@ to which I answered "yes, but steno theories and keyboards exist for many langua
 
 To answer I fired up the Plover 'Paper Tape' and explained that early machines recorded strokes on paper tape that would be later hand translated. Having these features to hand made Plover a joy to demonstrate, and I enjoyed chatting to everyone who took an interest.
 
-I've detailed my setup below for anyone who is interested, along with some thoughts on improving it next time. I had a great time at the meetup, and would love to have a go at demonstrating Plover again in the future, especially if I manage to build up some fluency in stenography. Thanks to all the welcoming folk of [r/MechanicalKeyboardsUK](https://www.reddit.com/r/MechanicalKeyboardsUK/) and to Mirabai for inviting me to write this post!
+I've detailed my setup below for anyone who is interested, along with some thoughts on improving it next time. I had a great time at the meetup, and would love to have a go at demonstrating Plover again in the future, especially if I manage to build up some fluency in stenography. Thanks to all the welcoming folk of [r/MechanicalKeyboardsUK](https://www.reddit.com/r/MechanicalKeyboardsUK/) and to Mirabai for inviting me to write this post.
 
 ----
 
