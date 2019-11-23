@@ -5,7 +5,7 @@ layout: page
 
 # Miles J Phillips
 
-## Architect
+<span class="post-date">Architect</span>
 
 ## Profile
 
