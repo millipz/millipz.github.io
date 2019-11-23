@@ -53,6 +53,14 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+a {
+  animation: colorchange-text 30s infinite; /* animation-name followed by duration in seconds*/
+                              /* you could also use milliseconds (ms) or something like 2.5s */
+  -webkit-animation: colorchange-text 30s infinite; /* Chrome and Safari */
+  -webkit-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+
 
 /*
  * Wrapper
@@ -158,6 +166,22 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation: colorchange 30s infinite; /* Chrome and Safari */
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
+}
+@keyframes colorchange-text
+{
+  0%   {color: MediumVioletRed;}
+  25%  {color: OrangeRed;}
+  50%  {color: Goldenrod;}
+  75%  {color: MediumSeaGreen;}
+  100% {color: MediumVioletRed;}
+}
+ @-webkit-keyframes colorchange-text /* Safari and Chrome - necessary duplicate */
+{
+  0%   {color: MediumVioletRed;}
+  25%  {color: OrangeRed;}
+  50%  {color: Goldenrod;}
+  75%  {color: MediumSeaGreen;}
+  100% {color: MediumVioletRed;}
 }
 
 @keyframes colorchange
@@ -343,6 +367,11 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: red;
+  animation: colorchange-text 30s infinite; /* animation-name followed by duration in seconds*/
+                              /* you could also use milliseconds (ms) or something like 2.5s */
+  -webkit-animation: colorchange-text 30s infinite; /* Chrome and Safari */
+  -webkit-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
 }
 .page-title,
 .post-title {
