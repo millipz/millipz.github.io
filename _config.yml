@@ -9,15 +9,13 @@ collections:
     title: Uploads
     output: true
 permalink: pretty
-gems:
+plugins:
 - jekyll-paginate
 paginate: 5
 paginate_path: blog/page:num
 tagline: architect / educator
 description: Homepage and blog of Miles Jonathan Phillips, UK based architect
 url: https://milesjphillips.com
-baseurl: https://milesjphillips.com
-remote_theme: renyuanz/leonids
 author:
   name: Miles J Phillips
   url: https://twitter.com/millipz
