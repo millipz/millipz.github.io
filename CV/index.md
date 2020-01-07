@@ -21,9 +21,10 @@ Specialties: Project Management, Design Team Leadership, Complex Refurbishment, 
 
 ### [TSH Architects](http://www.tsharchitects.co.uk/), Oxford
 
-#### Senior Architect (2015 - Present)
+#### Associate (2019 - Present)
+#### Senior Architect (2015 - 2019)
 
-Leading education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
+Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
 
 ### [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
 
