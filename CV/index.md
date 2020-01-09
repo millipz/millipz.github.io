@@ -3,10 +3,6 @@ title: CV
 layout: page
 ---
 
-# Miles J Phillips
-
-<span class="post-date">Architect</span>
-
 ## Profile
 
 I am a UK registered architect, with experience at every stage of design, including administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings.
