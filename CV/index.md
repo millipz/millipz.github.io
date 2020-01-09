@@ -17,50 +17,34 @@ Specialties: Project Management, Design Team Leadership, Complex Refurbishment, 
 
 ### [TSH Architects](http://www.tsharchitects.co.uk/), Oxford
 
-#### Associate (2019 - Present)
-#### Senior Architect (2015 - 2019)
-
-Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
+**Associate (2019 - Present)**
+**Senior Architect (2015 - 2019)** Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
 
 ### [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
 
-#### Visiting Lecturer (2015-Present)
-
-Preparing and delivering a 2-level short course in AutoCAD for professionals.
+**Visiting Lecturer (2015-2018)** Preparing and delivering a 2-level short course in AutoCAD for professionals.
 
 ### [Molyneux Kerr Architects](http://www.molyneuxkerr.com/), London
 
-#### Architect (2014 - 2015)
+**Architect (2014 - 2015)** Managing university projects up to £5M in value from feasibility to completion. Developing fee proposals, PQQs and ITTs. Leading production of tender drawings and documentation at the head of a consultant team. Developing proposals for restorations, alterations and extensions to sensitive listed building and churches. Producing detailed conditions surveys. Hand drawing detail packages.
 
-Managing university projects up to £5M in value from feasibility to completion. Developing fee proposals, PQQs and ITTs. Leading production of tender drawings and documentation at the head of a consultant team. Developing proposals for restorations, alterations and extensions to sensitive listed building and churches. Producing detailed conditions surveys. Hand drawing detail packages.
-
-#### Part II Architectural Assistant (2011 - 2014)
-
-Developing proposals for restorations, alterations and extensions to sensitive listed building and churches. Leading production of tender drawings and documentation for a small highly complex project in collaboration with other consultants. Assisting in producing detailed conditions surveys. Hand drawing detail packages. Producing photographs and graphics for exhibitions and publicity.
+**Part II Architectural Assistant (2011 - 2014)** Developing proposals for restorations, alterations and extensions to sensitive listed building and churches. Leading production of tender drawings and documentation for a small highly complex project in collaboration with other consultants. Assisting in producing detailed conditions surveys. Hand drawing detail packages. Producing photographs and graphics for exhibitions and publicity.
 
 ### [University of Bedfordshire](http://www.beds.ac.uk/), Luton
 
-#### Visiting Lecturer (2012 - 2013)
-
-Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
+**Visiting Lecturer (2012 - 2013)** Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
 
 ### [Shelter Associates](http://www.shelter-associates.org), Pune, India
 
-#### Videographer, Web and Graphic Consultancy (Nov 2010 - Jan 2011)
-
-Writing, shooting, designing and producing documentary-style promotional videos. Consulting on branding and graphics, along with website update. Assiting in developing and running workshops for children displaced from informal settlements.
+**Videographer, Web and Graphic Consultancy (Nov 2010 - Jan 2011)** Writing, shooting, designing and producing documentary-style promotional videos. Consulting on branding and graphics, along with website update. Assiting in developing and running workshops for children displaced from informal settlements.
 
 ### [Harper Downie](http://www.harperdownie.com/), London
 
-#### Architectural Assistant (2007 - 2011)
-
-Preparing planning applications, feasibility proposals. Liaising with clients and subcontractors. Developing innovative housing designs and modular building systems. Managing and producing drawing packages. Assisting with office software management and education. Producing detailed 3D models for photorealistic visualisations.
+**Architectural Assistant (2007 - 2011)** Preparing planning applications, feasibility proposals. Liaising with clients and subcontractors. Developing innovative housing designs and modular building systems. Managing and producing drawing packages. Assisting with office software management and education. Producing detailed 3D models for photorealistic visualisations.
 
 ### [Hypostyle](http://www.hypostyle.co.uk/), Glasgow
 
-#### Architectural Assistant (2006-2007)
-
-Producing drawings for job pitches, planning applications, and production information. Assisting detail design and development. Completing and issuing tender drawing packages.
+**Architectural Assistant (2006-2007)** Producing drawings for job pitches, planning applications, and production information. Assisting detail design and development. Completing and issuing tender drawing packages.
 
 ## Education
 
@@ -82,7 +66,7 @@ A Levels: Art A, Maths & Further Maths A, Physics A
 
 ### Architecture
 
-Experienced at all stages of design and managing projects to completion, including feasibility, permissions, tender processes and Contract Administration. Well versed in UK development context.
+Experienced at all stages of design, leading and managing projects from inception to completion: feasibility, permissions, tender processes and Contract Administration. Well versed in UK development context.
 
 ### Communication and Management
 
@@ -90,27 +74,27 @@ Skilled communicator, personable and sociable. Experienced at managing multiple 
 
 ### BIM & CAD
 
-Fluency in a variety of CAD and BIM environments. Experience teaching 2D and 3D CAD, developing production information in Revit. Also experienced at developing custom parametric Revit families.
+Fluency in a variety of CAD and BIM environments. Experience teaching 2D and 3D CAD, developing production information in Revit. Experience developing custom parametric Revit families.
 
 ### Technical Drawing
 
-Comfortable with both manual and digital drawing, with clear and professional draftsmanship. Experience using and teaching a wide range of drawing software. Experience teaching technical drawing.
+Comfortable with both manual and digital drawing, with clear and professional draftsmanship. Experience using and teaching a wide range of drafting and BIM software. Experience teaching technical drawing.
 
 ### Video Production
 
-Enthusiastic photographer and cameraman. skilled at production, management and editing video to produce succinct and compelling presentations.
+Enthusiastic photographer and cameraman. skilled at production, management and editing video to produce succinct and compelling content.
 
-### Web Design
+### Web
 
-Keen interest in web design and emerging technologies. Experience designing sites from scratch as well as for existing platforms.
+Keen interest in web design and emerging technologies. Experience designing, building and deploying static sites using Jekyll.
 
 ### Graphic Design
 
 An eye for graphical presentation and clean, clear visual communication. Academic grounding in the theory and practice of information design.
 
-### Visualisation
+### 3D & Viz
 
-Accomplished 3D modeller, able to produce a wide variety of polished imagery and visualizations.
+Accomplished 3D creator, able to produce a wide variety of assets, imagery and visualizations.
 
 ### Software & Technologies
 
