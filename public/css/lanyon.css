@@ -27,7 +27,7 @@
  * Themes
  */
 
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant:400,500i,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
 /*
@@ -42,15 +42,30 @@ body {
   overflow-x: hidden;
 }
 
+/* MJP customisations */
 html {
-  font-family: "Cormorant Garamond", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Cormorant", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 500;
+  font-stlye: italic;
   color: #313131;
-  letter-spacing: -.025rem;
+}
+
+h1 {
+  font-size: 1.5 rem;
+  margin-top: 5 rem;
+}
+
+h2 {
+  font-size: 1.2 rem;
+  margin-top: 3 rem;
+}
+
+h3 {
+  font-size: 1 rem;
+  margin-top: 1.5 rem;
 }
 
 /*
