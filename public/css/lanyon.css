@@ -102,6 +102,8 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead {
+  font-family: "Playfair Display", "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
