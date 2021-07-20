@@ -15,44 +15,48 @@ Specialties: Project Management, Design Team Leadership, Complex Refurbishment, 
 
 ## Experience
 
-### [TSH Architects](http://www.tsharchitects.co.uk/), Oxford
+### [TSH Architects](https://www.tsharchitects.co.uk/), Oxford
 
 **Associate (2019 - Present)**
 **Senior Architect (2015 - 2019)** Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
 
-### [London Metropolitan University](http://www.londonmet.ac.uk/faculties/the-cass/), London
+### [Oxford Brookes University](https://www.brookes.ac.uk/), London
 
-**Visiting Lecturer (2015-2018)** Preparing and delivering a 2-level short course in AutoCAD for professionals.
+**Associate Lecturer (2021 - Present)** Assisting with preparation, delivery and assessment of Construction Management degree-level courses.
 
-### [Molyneux Kerr Architects](http://www.molyneuxkerr.com/), London
+### [London Metropolitan University](https://www.londonmet.ac.uk/faculties/the-cass/), London
+
+**Visiting Lecturer (2015 - 2018)** Preparing and delivering a 2-level short course in AutoCAD for professionals.
+
+### [Molyneux Kerr Architects](https://www.archdaily.com/office/molyneux-kerr-architects), London
 
 **Architect (2014 - 2015)** Managing university projects up to £5M in value from feasibility to completion. Developing fee proposals, PQQs and ITTs. Leading production of tender drawings and documentation at the head of a consultant team. Developing proposals for restorations, alterations and extensions to sensitive listed building and churches. Producing detailed conditions surveys. Hand drawing detail packages.
 
 **Part II Architectural Assistant (2011 - 2014)** Developing proposals for restorations, alterations and extensions to sensitive listed building and churches. Leading production of tender drawings and documentation for a small highly complex project in collaboration with other consultants. Assisting in producing detailed conditions surveys. Hand drawing detail packages. Producing photographs and graphics for exhibitions and publicity.
 
-### [University of Bedfordshire](http://www.beds.ac.uk/), Luton
+### [University of Bedfordshire](https://www.beds.ac.uk/), Luton
 
 **Visiting Lecturer (2012 - 2013)** Preparing and delivering a course in technical drawing and digital imagery. Lecturing & leading workshops in groups of 20+ to develop 2D and 3D drafting and presentation skills, as well as one-on-one and small group tutoring. Reviewing and grading year-end presentations and submissions with other tutors and guests.
 
-### [Shelter Associates](http://www.shelter-associates.org), Pune, India
+### [Shelter Associates](https://www.shelter-associates.org), Pune, India
 
 **Videographer, Web and Graphic Consultancy (Nov 2010 - Jan 2011)** Writing, shooting, designing and producing documentary-style promotional videos. Consulting on branding and graphics, along with website update. Assiting in developing and running workshops for children displaced from informal settlements.
 
-### [Harper Downie](http://www.harperdownie.com/), London
+### [Harper Downie](https://www.harperdownie.com/), London
 
 **Architectural Assistant (2007 - 2011)** Preparing planning applications, feasibility proposals. Liaising with clients and subcontractors. Developing innovative housing designs and modular building systems. Managing and producing drawing packages. Assisting with office software management and education. Producing detailed 3D models for photorealistic visualisations.
 
-### [Hypostyle](http://www.hypostyle.co.uk/), Glasgow
+### [Hypostyle](https://www.hypostyle.co.uk/), Glasgow
 
-**Architectural Assistant (2006-2007)** Producing drawings for job pitches, planning applications, and production information. Assisting detail design and development. Completing and issuing tender drawing packages.
+**Architectural Assistant (2006 - 2007)** Producing drawings for job pitches, planning applications, and production information. Assisting detail design and development. Completing and issuing tender drawing packages.
 
 ## Education
 
-### [The Bartlett, UCL](http://www.bartlett.ucl.ac.uk/)
+### [The Bartlett, UCL](https://www.bartlett.ucl.ac.uk/)
 
 PGDip in Professional Practice & Management in Architecture (ARB/RIBA Part 3) -- 2014
 
-### [University of Sheffield School of Architecture](http://www.sheffield.ac.uk/architecture/)
+### [University of Sheffield School of Architecture](https://www.sheffield.ac.uk/architecture/)
 
 M.Arch in Architecture (RIBA Part 2) -- 2010
 
