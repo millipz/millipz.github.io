@@ -74,6 +74,10 @@ A Levels: Art A, Maths & Further Maths A, Physics A
 
 ## Skills
 
+### Practice Management and Strategy
+
+Seasoned SME leader, including wide ranging responsibilities for strategy, P&L, employment and business development. Experience designing, creating and implementing profitability tracking tools.
+
 ### Architecture
 
 Experienced at all stages of design, leading and managing projects from inception to completion: feasibility, permissions, tender processes and Contract Administration. Well versed in UK development context.
