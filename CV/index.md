@@ -5,20 +5,24 @@ layout: page
 
 ## Profile
 
-I am a UK registered architect, with experience at every stage of design, including administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings.
+I am a UK registered architect and practice director, with experience at every stage of design, including administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings.
 
 I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
 
 I also have a keen interest in how design can help to address the challenges of development around the world, and increase the resilience of the poorest and most vulnerable communities.
 
-Specialties: Project Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
+Specialties: Practice Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
 
 ## Experience
 
 ### [TSH Architects](https://www.tsharchitects.co.uk/), Oxford
 
-**Associate (2019 - Present)**
-**Senior Architect (2015 - 2019)** Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
+**Director (2022 - Present)**
+Practice leader, including strategic responisibility for technology, IT, and resource management & reporting.
+**Associate (2019 - 2022)**
+Heritage and refurbishement practice lead, including building relationships with new and existing clients including Lincoln College, Oxford, St John's College, Oxford and Rugby School.
+**Senior Architect (2015 - 2019)**
+Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
 
 ### [Oxford Brookes University](https://www.brookes.ac.uk/), London
 
