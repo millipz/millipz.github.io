@@ -13,7 +13,7 @@ plugins:
 - jekyll-paginate
 paginate: 5
 paginate_path: blog/page:num
-tagline: architect&educator
+tagline: architect • strategist • educator
 description: Homepage and blog of Miles Jonathan Phillips, UK based architect
 url: https://milesjphillips.com
 author:
