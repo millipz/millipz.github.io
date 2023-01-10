@@ -19,8 +19,10 @@ Specialties: Practice Management, Design Team Leadership, Complex Refurbishment,
 
 **Director (2022 - Present)**
 Practice leader, including strategic responisibility for technology, IT, and resource management & reporting.
+
 **Associate (2019 - 2022)**
 Heritage and refurbishement practice lead, including building relationships with new and existing clients including Lincoln College, Oxford, St John's College, Oxford and Rugby School.
+
 **Senior Architect (2015 - 2019)**
 Leading heritage, education and sports projects across the South East up to £10M, including projects for Lincoln College, Oxford and St Hilda's Collge, Oxford. Improving office QA and standards adoption. Delivering BIM pilot projects.
 
