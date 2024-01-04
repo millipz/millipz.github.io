@@ -17,7 +17,7 @@ Specialties: Practice Management, Design Team Leadership, Complex Refurbishment,
 
 ### [TSH Architects](https://www.tsharchitects.co.uk/), Oxford
 
-**Director (2022 - Present)**
+**Director (2022 - 2023)**
 Practice leader, including strategic responisibility for technology, IT, and resource management & reporting.
 
 **Associate (2019 - 2022)**
@@ -28,7 +28,7 @@ Leading heritage, education and sports projects across the South East up to £10
 
 ### [Oxford Brookes University](https://www.brookes.ac.uk/), London
 
-**Associate Lecturer (2021 - Present)** Assisting with preparation, delivery and assessment of Construction Management degree-level courses.
+**Associate Lecturer (2021 - 2023)** Assisting with preparation, delivery and assessment of Construction Management degree-level courses.
 
 ### [London Metropolitan University](https://www.londonmet.ac.uk/faculties/the-cass/), London
 
