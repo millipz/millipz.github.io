@@ -5,13 +5,15 @@ layout: page
 
 ## Profile
 
-I am a UK registered architect and practice director, with experience at every stage of design, including administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings.
+I am a UK registered architect, technologist and educator
 
-I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
+Having shifted from a design and management career in construction into the technology sector, I bring a unique perspective to technical challenges and products. 
+
+In construction, I have experience at every stage of design, including practice management, administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings. I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
 
 I also have a keen interest in how design can help to address the challenges of development around the world, and increase the resilience of the poorest and most vulnerable communities.
 
-Specialties: Practice Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
+Specialties: Appropriate Technology & Automation, Practice Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
 
 ## Experience
 
