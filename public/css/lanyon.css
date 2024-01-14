@@ -150,8 +150,8 @@ h4 {
   .masthead-title {
     text-align: center;
   }
-  .masthead-title small {
-    display: none;
+  .masthead-subtitle {
+    text-align: center;
   }
 }
 
