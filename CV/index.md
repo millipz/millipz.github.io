@@ -7,7 +7,7 @@ layout: page
 
 I am a UK registered architect, technologist and educator
 
-Having shifted from a design and management career in construction into the technology sector, I bring a unique perspective to technical challenges and products. 
+Having transitioned from a design and management career in construction into the technology sector, I bring a unique perspective to technical challenges and products. 
 
 In construction, I have experience at every stage of design, including practice management, administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings. I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
 
