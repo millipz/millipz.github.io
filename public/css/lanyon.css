@@ -139,8 +139,8 @@ h4 {
   color: #505050;
   text-decoration: none;
 }
-.masthead-title small {
-  font-size: 50%;
+.masthead-subtitle {
+  font-size: 30%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
