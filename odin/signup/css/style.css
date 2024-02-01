@@ -86,7 +86,7 @@ input {
 .splash-sidebar {
     display: flex;
     grid-area: sidebar;
-    background-image: url("/img/splash-background.jpg");
+    background-image: url("../img/splash-background.jpg");
     background-size: cover;
     position: fixed;
     height: 100%;
