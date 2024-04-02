@@ -15,6 +15,12 @@ I also have a keen interest in how design can help to address the challenges of 
 
 Specialties: Appropriate Technology & Automation, Practice Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
 
+## Latest
+
+### [Northcoders](https://northcoders.com/) Data Engineering Bootcamp
+
+**Pending graduation June 2024**
+
 ## Experience
 
 ### [TSH Architects](https://www.tsharchitects.co.uk/), Oxford
