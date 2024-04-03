@@ -7,7 +7,9 @@ layout: page
 
 I am a UK registered architect, technologist and educator
 
-Having transitioned from a design and management career in construction into the technology sector, I bring a unique perspective to technical challenges and products. 
+Having transitioned from a design and management career in construction into the technology sector, I bring a unique perspective to technical challenges and products.
+
+As a data engineer, developer and coder, I take pride in crafting quality code. I'm a firm believer in TDD and always curious about the intricacies of implementation, alogrithms, software and database design. I love to ask: "how can this be made better, more robust, less error-prone, more readable and maintainable?".
 
 In construction, I have experience at every stage of design, including practice management, administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings. I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
 
@@ -82,6 +84,10 @@ A Levels: Art A, Maths & Further Maths A, Physics A
 
 ## Skills
 
+### Data Engineering
+
+Building and managing databases, APIs, and robust back end applications using Python and PostgreSQL
+
 ### Practice Management and Strategy
 
 Seasoned SME leader, including wide ranging responsibilities for strategy, P&L, employment and business development. Experience designing, creating and implementing profitability tracking tools.
@@ -120,6 +126,14 @@ Accomplished 3D creator, able to produce a wide variety of assets, imagery and v
 
 ### Software & Technologies
 
+- Python 3
+- SQL
+- TDD
+
+- HTML
+- CSS
+- JavaScript
+
 - Revit
 - AutoCAD
 - Vectorworks
@@ -128,10 +142,6 @@ Accomplished 3D creator, able to produce a wide variety of assets, imagery and v
 - SketchUp
 - Kerkythea
 - Cinema4D
-
-- HTML
-- CSS
-- JavaScript
 
 ## Other
 
