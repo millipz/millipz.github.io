@@ -128,6 +128,7 @@ Accomplished 3D creator, able to produce a wide variety of assets, imagery and v
 
 - Python 3
 - SQL
+- Git
 - TDD
 
 - HTML
