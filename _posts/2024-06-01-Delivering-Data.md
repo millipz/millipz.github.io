@@ -1,5 +1,5 @@
 ---
-title: Delivering Data - An ETL Pipeline
+title: "Embracing Agile: Lessons from a Data Engineering Bootcamp"
 date: 2024-06-01 00:00:00 Z
 layout: post
 feature-img: "/assets/git-graph.png"
