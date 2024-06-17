@@ -3,6 +3,8 @@ title: CV
 layout: page
 ---
 
+My personal PDF CV can be downloaded [here](/CV/mjp.pdf). Below is a more expansive profile and history.
+
 ## Profile
 
 I am a UK registered architect, technologist and educator
