@@ -207,30 +207,32 @@ h4 {
 
 @keyframes colorchange
 {
-  0%   {background: MediumVioletRed;}
-  25%  {background: OrangeRed;}
-  50%  {background: Goldenrod;}
-  75%  {background: MediumSeaGreen;}
-  100% {background: MediumVioletRed;}
+  0%   {color: MediumVioletRed;}
+  25%  {color: OrangeRed;}
+  50%  {color: Goldenrod;}
+  75%  {color: MediumSeaGreen;}
+  100% {color: MediumVioletRed;}
 }
+
  @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
 {
-  0%   {background: MediumVioletRed;}
-  25%  {background: OrangeRed;}
-  50%  {background: Goldenrod;}
-  75%  {background: MediumSeaGreen;}
-  100% {background: MediumVioletRed;}
+  0%   {background: hsl(322, 81%, 23%);}
+  25%  {background: hsl(16, 100%, 30%);}
+  50%  {background: hsl(43, 74%, 29%);}
+  75%  {background: hsl(147, 50%, 27%);}
+  100% {background: hsl(322, 81%, 23%);}
 }
 
 @media (min-width: 30em) {
   .sidebar {
     font-size: .75rem; /* 14px */
+    color: #fdf8ef;
   }
 }
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
+  font-weight: 600;
   color: #fff;
 }
 .sidebar-item {

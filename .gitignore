@@ -2,6 +2,9 @@
 _gh_pages
 _site
 .ruby-version
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff
@@ -28,6 +31,16 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
 # Komodo
 *.komodoproject
@@ -40,3 +53,17 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# Ruby stuff
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+*.bundle
+*.so
+*.log
+*.gz
