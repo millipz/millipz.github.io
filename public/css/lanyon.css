@@ -213,6 +213,7 @@ h4 {
   75%  {background: hsl(147, 50%, 27%);}
   100% {background: hsl(322, 81%, 23%);}
 }
+
  @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
 {
   0%   {background: hsl(322, 81%, 23%);}
@@ -225,12 +226,13 @@ h4 {
 @media (min-width: 30em) {
   .sidebar {
     font-size: .75rem; /* 14px */
+    color: #fdf8ef;
   }
 }
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
+  font-weight: 600;
   color: #fff;
 }
 .sidebar-item {
