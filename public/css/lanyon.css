@@ -182,6 +182,7 @@ h4 {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
+  color: #fdf8ef;
   animation: colorchange 30s infinite; /* animation-name followed by duration in seconds*/
                               /* you could also use milliseconds (ms) or something like 2.5s */
   -webkit-animation: colorchange 30s infinite; /* Chrome and Safari */
@@ -226,7 +227,6 @@ h4 {
 @media (min-width: 30em) {
   .sidebar {
     font-size: .75rem; /* 14px */
-    color: #fdf8ef;
   }
 }
 
