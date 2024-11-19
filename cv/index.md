@@ -3,7 +3,7 @@ title: CV
 layout: page
 ---
 
-My personal PDF CV can be downloaded [here](/CV/mjp.pdf). Below is a more expansive profile and history.
+My personal PDF CV can be downloaded [here](/cv/mjp.pdf). Below is a more expansive profile and history.
 
 ## Profile
 
