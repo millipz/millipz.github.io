@@ -7,11 +7,11 @@ My personal PDF CV can be downloaded [here](/cv/mjp.pdf). Below is a more expans
 
 ## Profile
 
-I am a UK registered architect, technologist and educator
+I am a software engineer, technologist, educator, and former architect.
 
 Having transitioned from a design and management career in construction into the technology sector, I bring a unique perspective to technical challenges and products.
 
-As a data engineer, developer and coder, I take pride in crafting quality code. I'm a firm believer in TDD and always curious about the intricacies of implementation, alogrithms, software and database design. I love to ask: "how can this be made better, more robust, less error-prone, more readable and maintainable?".
+As a software engineer I take pride in crafting quality code. I'm a firm believer in TDD and always curious about the intricacies of implementation, alogrithms, software and database design. I love to ask: "how can this be made better, more robust, less error-prone, more readable and maintainable?".
 
 In construction, I have experience at every stage of design, including practice management, administering contracts up to £5M, and lead architect on projects up to £10M. I have a wealth of experience of working with existing buildings, including many historic and listed buildings. I am a strong advocate for using appropriate technology to help improve the construction process on all projects, including BIM and workflow automation where possible.
 
@@ -19,13 +19,21 @@ I also have a keen interest in how design can help to address the challenges of 
 
 Specialties: Appropriate Technology & Automation, Practice Management, Design Team Leadership, Complex Refurbishment, BIM, CAD Standards, 3D Modelling, Teaching & Training.
 
-## Latest
 
-### [Northcoders](https://northcoders.com/) Data Engineering Bootcamp
-
-**Pending graduation June 2024**
 
 ## Experience
+
+### [Perspectum](https://www.perspectum.com/)
+
+**Systems Engineer (Jan 2025 - Present)**
+
+Operate, extend, and support Perspectum's diagnostic services platform. Collaborate with product teams to improve systems and platforms and enable development of regulated Software as a Medical Device (SaMD) products. Assist with security and availabilty incidents, responding to outages or vulnerabilities with immediate fixes, co-ordinating incident communications and assessing options for longer term solutions.
+
+### [Northcoders](https://northcoders.com/)
+
+**Data Engineer & Mentor (Oct 2024 - Dec 2024)**
+
+Developed and maintained data pipelines and contributed to internal Learning Management System. Supported mentees on 1-2-1 basis through intensive bootcamp course. Let student groups using agile practices to deliver final demo projects. Provided teaching and technical assistance, researching new technologies and supporting maintenance of the course.
 
 ### [TSH Architects](https://www.tsharchitects.co.uk/), Oxford
 
